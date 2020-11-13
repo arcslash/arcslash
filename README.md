@@ -1,5 +1,5 @@
 # 👨‍💻 About me
-Hi, I am a Software Engineer, Artificial Intelligence Enthusiast and a seasoned hacker, interested in new technologies and breaking things apart.
+ Jack of all trades, works on computer security, Embedded Systems and Software Engineering.
 
 # 🧐 Find Me
 * 💻 Website: [arcslash.com](https://arcslash.com)
