@@ -1,5 +1,5 @@
 # 👨‍💻 About me
- Jack of all trades, works on computer security, Embedded Systems and Software Engineering.
+ Jack of all trades, work on computer security, Embedded Systems and Software Engineering.
 
 # 🧐 Find Me
 * 💻 Website: [arcslash.com](https://arcslash.com)
