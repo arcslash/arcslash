@@ -1,5 +1,5 @@
-# 👨‍💻 About me
-Someone interested in building exciting solutions from ground up and breaking them.
+# 👨‍💻 What will you find here?
+Things that break :)
 
 # 🧐 Find Me
 * 💻 Website: [arcslash.com](https://arcslash.com)
