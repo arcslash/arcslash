@@ -1,5 +1,5 @@
 # 👨‍💻 What will you find here?
-Things that break :)
+Things that break stuff :)
 
 # 🧐 Find Me
 * 💻 Website: [arcslash.com](https://arcslash.com)
