@@ -1,5 +1,6 @@
 # 👨‍💻 What will you find here?
-Things that break stuff :)
+
+Some solutions and ideas around Machine Learning, Algorithms and Cyber Security.
 
 # 🧐 Find Me
 * 💻 Website: [arcslash.com](https://arcslash.com)
