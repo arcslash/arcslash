@@ -1,12 +1,11 @@
 # 👨‍💻 What will you find here?
 
-Some solutions and ideas around Machine Learning, Algorithms, Blockchain and Cyber Security.
+Things that,
+- Make things Move.
+- Make things Think.
+- Break things.
+- Make things.
 
-# 🧐 Find Me
-* 💻 Website: 
-* 🐦 Twitter: 
-
-![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
 
 
 
