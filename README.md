@@ -1,11 +1,14 @@
 # 👨‍💻 Welcome to My GitHub  
 
-This space is dedicated to projects in automation, AI, security, and developer tools—focusing on building practical, efficient, and privacy-conscious solutions.  
+A workspace for exploring automation, AI, security, and developer tools—always learning, always improving.  
 
-## 🔹 What You’ll Find Here  
+![Coding in Action](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-- **Automation & Robotics** – Systems designed to improve efficiency and reduce manual effort.  
-- **AI & Machine Learning** – Models built for analysis, prediction, and decision-making.  
-- **Security & Penetration Testing** – Exploring software vulnerabilities and strengthening security.  
-- **Developer Tools & Libraries** – Utilities that streamline development and save time.  
+---
 
+## ⚡ What’s Inside  
+
+- 🚀 **Automation & Robotics** – Streamlining processes and enhancing efficiency.  
+- 🧠 **AI & Machine Learning** – Building models for analysis, prediction, and decision-making.  
+- 🔐 **Security & Penetration Testing** – Identifying vulnerabilities and strengthening systems.  
+- 🔧 **Developer Tools & Libraries** – Creating utilities to simplify development.  
