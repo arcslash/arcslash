@@ -9,6 +9,3 @@ This space is dedicated to projects in automation, AI, security, and developer t
 - **Security & Penetration Testing** – Exploring software vulnerabilities and strengthening security.  
 - **Developer Tools & Libraries** – Utilities that streamline development and save time.  
 
-## 🚀 Let’s Build Something Useful  
-
-Check out the projects, contribute, or start a discussion. Open to collaboration and knowledge sharing.  
